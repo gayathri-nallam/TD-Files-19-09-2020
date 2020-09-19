@@ -3,12 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Web Design and Development - Apssdc's documentation!
+Welcome to Web Development  documentation!
 ===============================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+
+   file1.md
 
 
 
